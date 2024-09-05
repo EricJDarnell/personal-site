@@ -1,0 +1,22 @@
+header {
+    background-color: gainsboro;
+    position: fixed;
+    padding: 5px 10px;
+    border: 2px double black;
+    width: 100%;
+    margin: 0px;
+    box-shadow: -5px 5px 3px black;
+    font-size: x-large;
+    display: flex;
+    justify-content: space-between;
+}
+
+div {
+    display: inline-block;
+}
+#name {
+    text-align: center;
+}
+.links {
+    text-align: center; 
+}

@@ -6,3 +6,4 @@ created about.html
 created portfolio.html
 created style.css
 created javascript.js
+creating persistent header with links

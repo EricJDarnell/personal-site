@@ -1,16 +1,27 @@
 header {
     background-color: gainsboro;
     position: fixed;
-    padding: 5px 10px;
+    height: 55px;
+    align-items: center;
+    padding: 10px;
     border: 2px double black;
-    width: 100%;
-    margin: 0px;
+    top: 0;
+    left: 5px;
+    right: 0;
     box-shadow: -5px 5px 3px black;
     font-size: x-large;
     display: flex;
     justify-content: space-between;
 }
-
+main {
+    width: 80%;
+    /* max-width: 500px; */
+    margin-top: 65px;
+    background-color: azure;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
 div {
     display: inline-block;
 }
@@ -19,4 +30,7 @@ div {
 }
 .links {
     text-align: center; 
+}
+body {
+    background-image: url();
 }

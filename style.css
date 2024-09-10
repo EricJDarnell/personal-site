@@ -26,12 +26,18 @@ div {
   display: inline-block;
 }
 .pic {
-  margin: 40px;
-  display: inline-flex;
   float: right;
+  border: 2px solid black
 }
 
 body {
   background-color: #1b1b32;
 }
 
+#me {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#quote {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

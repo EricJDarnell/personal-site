@@ -7,3 +7,4 @@ created portfolio.html
 created style.css
 created javascript.js
 creating persistent header with links
+Final updates to homepage

@@ -15,7 +15,7 @@ header {
 }
 main {
   width: 80%;
-  padding: 100px
+  padding: 100px;
   max-width: 1000px;
   margin-top: 65px;
   background-color: azure;
@@ -26,20 +26,12 @@ div {
   display: inline-block;
 }
 .pic {
-  /* margin: 40px; */
-  padding: 25px;
+  margin: 40px;
   display: inline-flex;
   float: right;
 }
-#name {
-  text-align: center;
-}
-.links {
-  text-align: center;
-}
+
 body {
   background-color: #1b1b32;
 }
-#home {
-    font-size: 25px;
-}
+

@@ -15,12 +15,21 @@ header {
 }
 main {
   width: 80%;
-  padding: 100px;
+  padding: 25px;
   max-width: 1000px;
   margin-top: 65px;
   background-color: azure;
   margin-right: auto;
   margin-left: auto;
+}
+#primary {
+  background-color: antiquewhite;
+  margin-left: 11px;
+}
+#secondary {
+  background-color: teal;
+  margin-top: 15px;
+  margin-right: 11px;
 }
 div {
   display: inline-block;
@@ -28,6 +37,17 @@ div {
 .pic {
   float: right;
   border: 2px solid black
+}
+#brain {
+  width: 250px;
+  float:right;
+  margin:25px;
+}
+#hollow {
+  float: left;
+  width: 250px;
+  margin: 25px;
+
 }
 
 body {
